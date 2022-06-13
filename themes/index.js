@@ -9,7 +9,7 @@ const themes = {
   default_repocard: {
     title_color: "2f80ed",
     icon_color: "586069", // icon color is different
-    text_color: "434d58",
+    text_color: "1CF8FC",
     bg_color: "fffefe",
   },
   dark: {
@@ -360,12 +360,6 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
-    },
-  darkbluedark: {
-    title_color: "81a1c1",
-    text_color: "d8dee9",
-    icon_color: "88c0d0",
-    bg_color: "linear-gradient(90deg, #020024 0%, #014698 70%, #020024 100%)",
-};
+    }
 
 module.exports = themes;
