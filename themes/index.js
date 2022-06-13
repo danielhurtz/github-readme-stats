@@ -7,10 +7,10 @@ const themes = {
     border_color: "e4e2e2",
   },
   default_repocard: {
-    title_color: "2f80ed",
-    icon_color: "586069", // icon color is different
+    title_color: "111681",
+    icon_color: "811111", // icon color is different
     text_color: "1CF8FC",
-    bg_color: "fffefe",
+    bg_color: "002E79",
   },
   dark: {
     title_color: "fff",
