@@ -361,11 +361,11 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
     },
-  darkblu: {
+  darkbluedark: {
     title_color: "81a1c1",
     text_color: "d8dee9",
     icon_color: "88c0d0",
-    bg_color: "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,86,189,1) 70%, rgba(0,0,0,1) 100%)",
+    bg_color: "linear-gradient(90deg, #020024 0%, #014698 70%, #020024 100%)",
 };
 
 module.exports = themes;
